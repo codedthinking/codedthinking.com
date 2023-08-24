@@ -1,14 +1,6 @@
-- name: Roboto Max
-  image: /assets/images/about-author.png
-  designation: Businessman
-  review: "Tellus at vulputate nulla neccommodovolutpat nec consectetur tempor magna morbi nec erat maecenas mattis mauris vel tempus nunc nam. Nunc sed sit aenean eos, fringilla quis id, fringilla s"
-  signature: /assets/images/about-author-sign.png
-  website: #
-
-- name: Robert Jam 
-  image: /assets/images/about-author2.png
-  designation: Managing Director
-  review: "Tellus at vulputate nulla neccommodovolutpat nec consectetur tempor magna morbi nec erat maecenas mattis mauris vel tempus nunc nam. Nunc sed sit aenean eos, fringilla quis id, fringilla s"
-  signature: /assets/images/about-author-sign2.png
-  website: #
-
+- name: Executive MBA student
+  review: "Miklós is an example for a data Professor who manages to make such a class fun and engaging. Despite his clear superior understanding of the subject he is open for ideas and sugegstions and - most importantly - he bring his personality on board, by stating his own opinion or best practices with passion."
+- name: Executive MBA student
+  review: "I work with a lot of data and the class has given me more confidence working with the data and asking the right questions. Thanks for a great class!"
+- name: Student in Coding for Economists
+  review: "It was very interesting and useful. The atmosphere were very supportive and friendly. No punishments for mistakes, just hacks how to work with them. It was ideal to learn coding for the first time without pressure and worries about grades. I also liked that instructor helped us with solutions and gave advice. [...] It was the best cource I took at CEU."

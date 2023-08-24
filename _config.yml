@@ -15,7 +15,7 @@ url: "https://jekyll-eduzone.netlify.com/" # the base hostname & protocol for yo
 # Site Settings
 twitter_username: codedthinking
 logo_url: https://cdn.thnk.ng/img/logo/logo-200.png
-footer_logo_url: https://cdn.thnk.ng/img/logo/logo-200.png
+footer_logo_url: https://cdn.thnk.ng/img/logo/white-200.png
 cover_image: /assets/images/blog-img-13.jpg
 
 # Build settings
