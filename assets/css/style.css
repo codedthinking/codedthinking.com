@@ -42,7 +42,7 @@ body {
   padding: 0;
   font-family: Open Sans, sans-serif;
   font-weight: 400;
-  color: #45567c;
+  color: #000000;
   font-size: 16px;
   line-height: 26px; }
 
@@ -62,7 +62,7 @@ body {
 a {
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
-  color: #ff697c; }
+  color: #e52020; }
   a:hover {
     text-decoration: none;
     outline: none; }
@@ -85,12 +85,12 @@ a {
     box-shadow: none !important;
     outline: none; }
   a.popular-course-enroll {
-    color: #ff697c;
+    color: #e52020;
     display: inline-block;
     text-transform: capitalize;
     font-weight: 600; }
     a.popular-course-enroll:hover {
-      color: #ff697c; }
+      color: #e52020; }
 
 button {
   -webkit-transition: all 0.5s ease-in-out;
@@ -252,7 +252,7 @@ iframe {
   .themeix-blockquote p {
     font-size: 18px;
     font-style: italic;
-    color: #ff697c; }
+    color: #e52020; }
 
 .section-spacing {
   padding: 80px 0; }
@@ -276,7 +276,7 @@ iframe {
   background-color: #ffffff; }
 
 .bg-color2 {
-  background-color: #ff697c; }
+  background-color: #e52020; }
 
 .bg-color3 {
   background-color: #292726; }
@@ -309,8 +309,8 @@ iframe {
     color: #fff; }
 
 .themeix-btn {
-  background-color: #ff697c;
-  border: 2px solid #ff697c;
+  background-color: #e52020;
+  border: 2px solid #e52020;
   border-radius: 4px;
   padding: 10px 30px;
   font-size: 16px;
@@ -322,37 +322,37 @@ iframe {
   .themeix-btn:hover {
     background-color: #ffffff !important;
     border: 2px solid #ffffff !important;
-    color: #ff697c !important; }
+    color: #e52020 !important; }
   .themeix-btn:focus {
     background-color: #ffffff !important;
     border: 2px solid #ffffff !important;
-    color: #ff697c !important; }
+    color: #e52020 !important; }
   .themeix-btn:active {
     background-color: #ffffff !important;
     border: 2px solid #ffffff !important;
-    color: #ff697c !important; }
+    color: #e52020 !important; }
 
 .themeix-btn2 {
   background-color: transparent;
-  border: 2px solid #ff697c;
+  border: 2px solid #e52020;
   border-radius: 4px;
   padding: 10px 30px;
   font-size: 16px;
   font-weight: 400;
   line-height: 30px;
   text-transform: capitalize;
-  color: #ff697c; }
+  color: #e52020; }
   .themeix-btn2:hover {
-    background-color: #45567c !important;
-    border: 2px solid #45567c !important;
+    background-color: #000000 !important;
+    border: 2px solid #000000 !important;
     color: #ffffff !important; }
   .themeix-btn2:focus {
-    background-color: #45567c !important;
-    border: 2px solid #45567c !important;
+    background-color: #000000 !important;
+    border: 2px solid #000000 !important;
     color: #ffffff !important; }
   .themeix-btn2:active {
-    background-color: #45567c !important;
-    border: 2px solid #45567c !important;
+    background-color: #000000 !important;
+    border: 2px solid #000000 !important;
     color: #ffffff !important; }
 
 .section-overlay {
@@ -425,11 +425,11 @@ iframe {
       padding: 40px 25px;
       font-size: 16px;
       font-weight: 600;
-      color: #45567c;
+      color: #000000;
       text-transform: capitalize; }
       #navigation-menu li a:hover {
         background-color: transparent;
-        color: #ff697c; }
+        color: #e52020; }
     #navigation-menu li .sub-toggle {
       width: 15px;
       background-color: transparent; }
@@ -439,7 +439,7 @@ iframe {
         #navigation-menu li .sub-toggle > i:before {
           content: "\f107";
           font-family: FontAwesome;
-          color: #45567c;
+          color: #000000;
           font-size: 18px;
           font-style: normal;
           position: absolute; }
@@ -453,7 +453,7 @@ iframe {
         padding: 10px 30px;
         font-weight: 400; }
         #navigation-menu li.has-submenu li a:hover {
-          background: #ff697c;
+          background: #e52020;
           color: #fff; }
 
 .fixed-navigation {
@@ -475,7 +475,7 @@ iframe {
 
 .top-login-modal .login-btn {
   border: none;
-  background: #ff697c;
+  background: #e52020;
   color: #fff;
   padding: 10px 20px;
   border-radius: 4px; }
@@ -485,7 +485,7 @@ iframe {
   padding: 10px; }
 
 .top-login-modal p.message a {
-  color: #ff697c; }
+  color: #e52020; }
 
 .themeix-slider {
   padding: 15% 0;
@@ -502,7 +502,7 @@ iframe {
     line-height: 60px;
     margin-bottom: 30px; }
     .themeix-slider-content h1 span {
-      color: #ff697c; }
+      color: #e52020; }
   .themeix-slider-content p {
     font-size: 18px;
     line-height: 30px;
@@ -524,11 +524,11 @@ iframe {
     margin-bottom: 0;
     font-size: 14px; }
     .themeix-wells-container .breadcrumb a {
-      color: #ff697c; }
+      color: #e52020; }
     .themeix-wells-container .breadcrumb .active a {
-      color: #45567c; }
+      color: #000000; }
   .themeix-wells-container .breadcrumb-item + .breadcrumb-item::before {
-    color: #45567c; }
+    color: #000000; }
 
 section.themeix-contact input[type="text"] {
   border: 1px solid #ddd;
@@ -554,17 +554,17 @@ section.themeix-banner-wells.inner-spacing.section-overlay {
     margin: 0;
     font-size: 16px;
     text-transform: uppercase;
-    color: #ff697c; }
+    color: #e52020; }
   .themeix-section-title h2 {
     font-size: 36px;
     line-height: 48px;
     margin-bottom: 15px; }
   .themeix-section-title span {
-    color: #ff697c; }
+    color: #e52020; }
   .themeix-section-title .section-border {
     width: 80px;
     height: 2px;
-    background-color: #ff697c;
+    background-color: #e52020;
     margin: auto;
     position: relative;
     margin-bottom: 30px; }
@@ -625,7 +625,7 @@ section.themeix-banner-wells.inner-spacing.section-overlay {
   background-size: cover; }
   .themeix-video-thumb i.fa.fa-play {
     color: #ffffff;
-    background: #ff697c;
+    background: #e52020;
     padding: 10px;
     font-size: 36px;
     width: 70px;
@@ -736,13 +736,13 @@ section.themeix-banner-wells.inner-spacing.section-overlay {
   background-color: #edf1f4;
   font-size: 38px;
   margin-bottom: 0;
-  color: #ff697c;
+  color: #e52020;
   padding: 13px;
   height: 73px;
   border-radius: 4px 4px 0 0; }
 
 .upcoming-event-logo h5 {
-  background-color: #ff697c;
+  background-color: #e52020;
   border-radius: 0 0 4px 4px;
   font-size: 15px;
   margin-bottom: 0;
@@ -767,11 +767,11 @@ section.themeix-banner-wells.inner-spacing.section-overlay {
       margin-bottom: 2px; }
 
 .upcoming-event-content .upcoming-event-btn {
-  border: 2px solid #ff697c;
+  border: 2px solid #e52020;
   border-radius: 4px;
   padding: 3px 15px;
   text-transform: capitalize;
-  color: #ff697c;
+  color: #e52020;
   margin-top: 0;
   display: inline-block;
   font-size: 14px; }
@@ -794,7 +794,7 @@ section.themeix-banner-wells.inner-spacing.section-overlay {
   line-height: 48px;
   margin-bottom: 20px; }
   .start-event-title h2 span {
-    color: #ff697c; }
+    color: #e52020; }
 
 .start-event-title p {
   margin-bottom: 30px; }
@@ -809,7 +809,7 @@ section.themeix-banner-wells.inner-spacing.section-overlay {
       content: "\f00c";
       font-family: FontAwesome;
       font-size: 15px;
-      color: #ff697c;
+      color: #e52020;
       position: absolute;
       left: 0;
       top: 0; }
@@ -818,12 +818,12 @@ section.themeix-banner-wells.inner-spacing.section-overlay {
   margin-bottom: 0; }
   .start-event-counter li {
     font-size: 36px;
-    color: #ff697c;
+    color: #e52020;
     font-weight: 600;
     margin-right: 20px !important; }
     .start-event-counter li span {
       font-size: 24px;
-      color: #45567c; }
+      color: #000000; }
 
 .upcoming-event-clock {
   background-image: url(../images/start-event-img.jpg);
@@ -843,7 +843,7 @@ section.themeix-banner-wells.inner-spacing.section-overlay {
   z-index: 2; }
   .upcoming-event-clock-wrapper h4 {
     font-size: 26px;
-    color: #ff697c;
+    color: #e52020;
     margin-bottom: 15px;
     text-transform: uppercase;
     text-align: center; }
@@ -867,7 +867,7 @@ section.themeix-banner-wells.inner-spacing.section-overlay {
   font-weight: 400;
   margin-bottom: 10px; }
   .upcoming-event-calendar h6 span {
-    color: #ff697c; }
+    color: #e52020; }
 
 div#themeix-lesson-accordion {
   margin-bottom: 30px; }
@@ -895,7 +895,7 @@ div.zabuto_calendar .table tr td {
     border-radius: 4px;
     margin-bottom: 10px; }
   .themeix-blog-post .themeix-blog-details a {
-    color: #45567c; }
+    color: #000000; }
 
 .themeix-newsletter-wrapper {
   background-color: #edf1f4;
@@ -919,7 +919,7 @@ div.zabuto_calendar .table tr td {
     font-weight: 400;
     font-size: 15px;
     border-radius: 4px;
-    background: #ff697c;
+    background: #e52020;
     color: #ffffff;
     z-index: 1;
     color: #ffffff;
@@ -957,7 +957,7 @@ div.zabuto_calendar .table tr td {
   .not-found-container p {
     margin-bottom: 0; }
   .not-found-container a {
-    color: #ff697c; }
+    color: #e52020; }
 
 .instructors-details-img {
   background-image: url(../images/instructors-author-img.png);
@@ -970,7 +970,7 @@ div.zabuto_calendar .table tr td {
   margin-bottom: 10px; }
   .instructors-details h2 a {
     font-size: 56px;
-    color: #ff697c; }
+    color: #e52020; }
 
 .instructors-details h6 {
   font-size: 18px;
@@ -985,7 +985,7 @@ div.zabuto_calendar .table tr td {
   .instructors-details-review > li {
     margin-right: 40px !important; }
     .instructors-details-review > li:last-child h4 {
-      color: #ff697c; }
+      color: #e52020; }
   .instructors-details-review h4 {
     font-size: 36px;
     color: #777777;
@@ -1014,10 +1014,10 @@ div.zabuto_calendar .table tr td {
     font-size: 16px;
     text-align: center;
     padding-top: 6px;
-    color: #ff697c; }
+    color: #e52020; }
     .instructors-details-social a:hover {
-      background-color: #ff697c;
-      border-color: #ff697c;
+      background-color: #e52020;
+      border-color: #e52020;
       color: #ffffff; }
 
 #gallery-filter {
@@ -1032,11 +1032,11 @@ div.zabuto_calendar .table tr td {
     appearance: none;
     color: #777777; }
     #gallery-filter .button:hover {
-      color: #ff697c; }
+      color: #e52020; }
     #gallery-filter .button:focus {
-      color: #ff697c; }
+      color: #e52020; }
   #gallery-filter .is-checked {
-    background-color: #ff697c;
+    background-color: #e52020;
     color: #ffffff; }
     #gallery-filter .is-checked:focus {
       color: #ffffff; }
@@ -1166,7 +1166,7 @@ div.zabuto_calendar .table tr td {
   font-size: 16px; }
 
 .forum-table .forum-rate {
-  color: #ff697c;
+  color: #e52020;
   font-size: 16px; }
 
 .forum-table thead th {
@@ -1185,7 +1185,7 @@ div.zabuto_calendar .table tr td {
   padding: 50px 20px;
   text-align: center; }
   .course-info:first-child {
-    background-color: #ff697c; }
+    background-color: #e52020; }
   .course-info .course-logo {
     margin-bottom: 10px; }
   .course-info h5 {
@@ -1202,7 +1202,7 @@ div.zabuto_calendar .table tr td {
     font-weight: 400;
     font-size: 15px;
     border-radius: 4px;
-    background: #ff697c;
+    background: #e52020;
     color: #ffffff;
     z-index: 1;
     padding: 10px 30px;
@@ -1216,7 +1216,7 @@ div.zabuto_calendar .table tr td {
   background-color: #ffbb44; }
 
 .popular-color3 {
-  background-color: #ff697c; }
+  background-color: #e52020; }
 
 .popular-course-post {
   margin-bottom: 30px;
@@ -1229,7 +1229,7 @@ div.zabuto_calendar .table tr td {
     border-bottom: 1px solid #edf1f4;
     margin: 0;
     font-size: 18px;
-    color: #45567c;
+    color: #000000;
     font-weight: 700;
     padding: 15px;
     background: #ffffff; }
@@ -1322,7 +1322,7 @@ div.zabuto_calendar .table tr td {
     border: 0;
     margin-bottom: 0; }
   .popular-course-post2 .popular-course-details a {
-    color: #45567c; }
+    color: #000000; }
     .popular-course-post2 .popular-course-details a h3 {
       font-size: 24px;
       position: relative;
@@ -1334,13 +1334,13 @@ div.zabuto_calendar .table tr td {
         position: absolute;
         width: 50px;
         height: 1px;
-        background-color: #ff697c; }
+        background-color: #e52020; }
   .popular-course-post2 .popular-course-details p {
     margin-bottom: 20px; }
   .popular-course-post2 .popular-course-avarage h2 {
     margin-bottom: 0;
     font-size: 36px;
-    color: #ff697c; }
+    color: #e52020; }
   .popular-course-post2 .popular-course-avarage p {
     font-size: 14px;
     line-height: 20px;
@@ -1367,7 +1367,7 @@ div.zabuto_calendar .table tr td {
       color: #939292;
       margin-right: 25px !important; }
       .popular-course-post2 .popular-course-student li i {
-        color: #ff697c; }
+        color: #e52020; }
   .popular-course-post2 .popular-course-thumb img {
     width: 100%; }
 
@@ -1442,7 +1442,7 @@ div.zabuto_calendar .table tr td {
     border-style: solid;
     position: absolute;
     top: 0;
-    border-color: #ff697c; }
+    border-color: #e52020; }
   .themeix-progress .progress-right {
     right: 0; }
     .themeix-progress .progress-right .progress-bar {
@@ -1511,7 +1511,7 @@ div.zabuto_calendar .table tr td {
   box-shadow: 0 15px 78px -18px #bdbbbb;
   text-align: center; }
   .resgister-form .resgister-form-text {
-    background-color: #ff697c;
+    background-color: #e52020;
     padding: 25px;
     position: relative;
     margin-bottom: 40px; }
@@ -1533,7 +1533,7 @@ div.zabuto_calendar .table tr td {
   .resgister-form button[type="submit"] {
     width: calc(100% - 50px);
     padding: 12px 30px;
-    background-color: #45567c;
+    background-color: #000000;
     border: 1px solid;
     border-radius: 4px;
     border-color: transparent;
@@ -1544,9 +1544,9 @@ div.zabuto_calendar .table tr td {
     margin-bottom: 50px;
     margin-top: 30px; }
     .resgister-form button[type="submit"]:hover {
-      background-color: #ff697c; }
+      background-color: #e52020; }
     .resgister-form button[type="submit"]:focus {
-      background-color: #ff697c; }
+      background-color: #e52020; }
 
 .resgister-form-triangle {
   width: 100%;
@@ -1554,7 +1554,7 @@ div.zabuto_calendar .table tr td {
   left: 0;
   right: 0;
   bottom: -10px;
-  background-color: #ff697c;
+  background-color: #e52020;
   position: absolute;
   -webkit-transform: skew(0deg, -2deg);
   transform: skew(0deg, -2deg); }
@@ -1592,7 +1592,7 @@ div.zabuto_calendar .table tr td {
       font-size: 18px;
       display: inline-block;
       font-weight: bold;
-      color: #ff697c; }
+      color: #e52020; }
     .about-author-info .about-author-content span {
       font-size: 14px;
       display: block;
@@ -1625,7 +1625,7 @@ div.zabuto_calendar .table tr td {
       font-size: 18px;
       margin-bottom: 5px;
       font-weight: 600;
-      color: #ff697c; }
+      color: #e52020; }
     .testimonial-info .testimonial-info-content p {
       color: #777777;
       margin-bottom: 0; }
@@ -1638,7 +1638,7 @@ div.zabuto_calendar .table tr td {
   left: 0;
   bottom: 86px;
   right: 0;
-  background-color: #ff697c;
+  background-color: #e52020;
   z-index: 2;
   opacity: 0;
   visibility: hidden;
@@ -1678,10 +1678,10 @@ div.zabuto_calendar .table tr td {
     color: #ffffff; }
     .testimonial-hover-social a:hover {
       background-color: #ffffff;
-      color: #ff697c; }
+      color: #e52020; }
     .testimonial-hover-social a:focus {
       background-color: #ffffff;
-      color: #ff697c; }
+      color: #e52020; }
 
 .testimonial-instructor-carousel {
   position: relative;
@@ -1698,13 +1698,13 @@ div.zabuto_calendar .table tr td {
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out; }
     .testimonial-instructor-carousel .owl-next:hover {
-      background-color: #ff697c; }
+      background-color: #e52020; }
       .testimonial-instructor-carousel .owl-next:hover:before {
         color: #ffffff; }
     .testimonial-instructor-carousel .owl-next:before {
       content: "\f105";
       font-size: 22px;
-      color: #45567c;
+      color: #000000;
       font-family: FontAwesome;
       position: absolute;
       top: -2px;
@@ -1720,13 +1720,13 @@ div.zabuto_calendar .table tr td {
     transition: all 0.5s ease-in-out;
     margin-right: 10px; }
     .testimonial-instructor-carousel .owl-prev:hover {
-      background-color: #ff697c; }
+      background-color: #e52020; }
       .testimonial-instructor-carousel .owl-prev:hover:before {
         color: #ffffff; }
     .testimonial-instructor-carousel .owl-prev:before {
       content: "\f104";
       font-size: 22px;
-      color: #45567c;
+      color: #000000;
       font-family: FontAwesome;
       position: absolute;
       top: -2px;
@@ -1755,7 +1755,7 @@ div.zabuto_calendar .table tr td {
   background-color: #2bcc70; }
 
 .pannel-three {
-  background-color: #ff697c; }
+  background-color: #e52020; }
 
 .pannel-column .pannel-logo {
   margin-bottom: 30px; }
@@ -1822,7 +1822,7 @@ div.zabuto_calendar .table tr td {
   top: 0;
   bottom: 0;
   right: -250px;
-  background-color: #ff697c;
+  background-color: #e52020;
   -webkit-transform: skew(-20deg, 0deg);
   transform: skew(-20deg, 0deg);
   z-index: 2;
@@ -1843,7 +1843,7 @@ div.zabuto_calendar .table tr td {
   margin-bottom: 30px; }
 
 .themeix-single a:hover {
-  color: #ff697c; }
+  color: #e52020; }
 
 .themeix-single-title {
   margin-bottom: 20px; }
@@ -1859,7 +1859,7 @@ div.zabuto_calendar .table tr td {
     margin-bottom: 10px; }
   .themeix-single-list i {
     margin-right: 10px;
-    color: #ff697c; }
+    color: #e52020; }
 
 #themeix-accordion {
   padding: 0 25px;
@@ -1873,7 +1873,7 @@ div.zabuto_calendar .table tr td {
     background-color: transparent;
     border: 0;
     font-size: 16px;
-    color: #45567c;
+    color: #000000;
     font-weight: 600; }
   #themeix-accordion .themeix-card:last-child .card-header {
     border-bottom: 0; }
@@ -1890,9 +1890,9 @@ div.zabuto_calendar .table tr td {
       #themeix-accordion .card-body li a {
         font-size: 15px; }
         #themeix-accordion .card-body li a:hover {
-          color: #ff697c; }
+          color: #e52020; }
         #themeix-accordion .card-body li a:focus {
-          color: #ff697c; }
+          color: #e52020; }
   #themeix-accordion .card-header {
     background-color: transparent;
     padding: 15px 0;
@@ -1956,7 +1956,7 @@ div.zabuto_calendar .table tr td {
   .themeix-single-page .themeix-single-tags {
     margin-bottom: 0; }
     .themeix-single-page .themeix-single-tags li a {
-      color: #ff697c; }
+      color: #e52020; }
       .themeix-single-page .themeix-single-tags li a:after {
         content: ","; }
     .themeix-single-page .themeix-single-tags li:first-child {
@@ -2019,7 +2019,7 @@ div.zabuto_calendar .table tr td {
   position: absolute;
   top: 15px;
   right: 15px;
-  color: #ff697c;
+  color: #e52020;
   font-size: 14px;
   background-color: #eeecec;
   padding: 0 10px;
@@ -2034,7 +2034,7 @@ div.zabuto_calendar .table tr td {
 
 .sidebar-title {
   font-size: 20px;
-  color: #45567c;
+  color: #000000;
   margin-bottom: 25px; }
 
 .sidebar-course .sidebar-course-content {
@@ -2045,7 +2045,7 @@ div.zabuto_calendar .table tr td {
     border-bottom: 1px solid #edf1f4;
     margin: 0;
     font-size: 16px;
-    color: #ff697c;
+    color: #e52020;
     font-weight: 400;
     padding: 20px; }
   .sidebar-course .sidebar-course-content p {
@@ -2089,10 +2089,10 @@ div.zabuto_calendar .table tr td {
 
 .sidebar-course .sidebar-course-enroll {
   text-transform: uppercase;
-  color: #ff697c;
+  color: #e52020;
   display: block; }
   .sidebar-course .sidebar-course-enroll:hover {
-    color: #ff697c; }
+    color: #e52020; }
 
 .sidebar-course img {
   width: 100%; }
@@ -2117,7 +2117,7 @@ div.zabuto_calendar .table tr td {
     padding-right: 15px; }
     .recent-container .recent-content > a {
       display: block;
-      color: #45567c;
+      color: #000000;
       font-size: 15px;
       line-height: 24px;
       font-weight: 600;
@@ -2126,11 +2126,11 @@ div.zabuto_calendar .table tr td {
     .recent-container .recent-content .recent-meta {
       margin-bottom: 0; }
       .recent-container .recent-content .recent-meta li {
-        color: #45567c;
+        color: #000000;
         font-size: 14px;
         position: relative; }
         .recent-container .recent-content .recent-meta li a {
-          color: #ff697c;
+          color: #e52020;
           font-size: 14px; }
 
 .sidebar-tags {
@@ -2140,20 +2140,20 @@ div.zabuto_calendar .table tr td {
     background-color: transparent;
     border: 1px solid;
     border-radius: 4px;
-    border-color: #45567c;
-    color: #45567c;
+    border-color: #000000;
+    color: #000000;
     font-weight: 400;
     font-size: 15px;
     margin-bottom: 10px;
     cursor: pointer; }
     .sidebar-tags .btn-tags:hover {
-      background-color: #ff697c;
+      background-color: #e52020;
       color: #ffffff;
-      border-color: #ff697c; }
+      border-color: #e52020; }
     .sidebar-tags .btn-tags:focus {
-      background-color: #ff697c;
+      background-color: #e52020;
       color: #ffffff;
-      border-color: #ff697c; }
+      border-color: #e52020; }
 
 .themeix-contact {
   position: relative; }
@@ -2205,7 +2205,7 @@ div.zabuto_calendar .table tr td {
     font-weight: 400; }
 
 .contact-form button[type="submit"] {
-  background-color: #ff697c;
+  background-color: #e52020;
   border: 0;
   border-radius: 4px;
   padding: 10px 30px;
@@ -2266,7 +2266,7 @@ div.zabuto_calendar .table tr td {
 
 .contact-resgister-form input[type="submit"] {
   padding: 15px 30px;
-  background-color: #ff697c;
+  background-color: #e52020;
   border: 1px solid;
   border-radius: 4px;
   border-color: transparent;
@@ -2305,7 +2305,7 @@ div.zabuto_calendar .table tr td {
   -webkit-transition: color .3s, background .3s;
   transition: color .3s, background .3s; }
   .themeix-payment-accordion-hd:hover {
-    color: #ff697c; }
+    color: #e52020; }
   .themeix-payment-accordion-hd i {
     display: inline-block;
     float: right;
@@ -2318,9 +2318,9 @@ div.zabuto_calendar .table tr td {
     margin-top: 5px; }
 
 .themeix-accordion-trigger:checked + label {
-  color: #ff697c; }
+  color: #e52020; }
   .themeix-accordion-trigger:checked + label > i {
-    color: #ff697c;
+    color: #e52020;
     -webkit-transform: rotate(90deg);
             transform: rotate(90deg); }
 
@@ -2364,7 +2364,7 @@ div.zabuto_calendar .table tr td {
   margin-bottom: 10px; }
 
 .themeix-footer-widget h6 {
-  color: #ff697c;
+  color: #e52020;
   font-size: 20px;
   margin-bottom: 0; }
 
@@ -2380,8 +2380,8 @@ div.zabuto_calendar .table tr td {
     text-align: center;
     padding-top: 7px; }
     .themeix-footer-social a:hover {
-      background-color: #ff697c;
-      border-color: #ff697c;
+      background-color: #e52020;
+      border-color: #e52020;
       color: #ffffff; }
 
 .themeix-footer-single {
@@ -2402,11 +2402,11 @@ div.zabuto_calendar .table tr td {
     .themeix-footer-single li a {
       text-transform: capitalize; }
       .themeix-footer-single li a:hover {
-        color: #ff697c; }
+        color: #e52020; }
       .themeix-footer-single li a:focus {
-        color: #ff697c; }
+        color: #e52020; }
       .themeix-footer-single li a:active {
-        color: #ff697c; }
+        color: #e52020; }
 
 .themeix-footer-category {
   margin-bottom: 0; }
@@ -2416,11 +2416,11 @@ div.zabuto_calendar .table tr td {
     .themeix-footer-category li a {
       text-transform: capitalize; }
       .themeix-footer-category li a:hover {
-        color: #ff697c; }
+        color: #e52020; }
       .themeix-footer-category li a:focus {
-        color: #ff697c; }
+        color: #e52020; }
       .themeix-footer-category li a:active {
-        color: #ff697c; }
+        color: #e52020; }
 
 .themeix-footer-form .form-group {
   margin-bottom: 15px; }
@@ -2439,7 +2439,7 @@ div.zabuto_calendar .table tr td {
 .themeix-footer-form button[type="submit"] {
   width: 100%;
   padding: 12px 30px;
-  background-color: #ff697c;
+  background-color: #e52020;
   border: 1px solid;
   border-radius: 4px;
   border-color: transparent;
@@ -2462,7 +2462,7 @@ div.zabuto_calendar .table tr td {
     font-size: 15px;
     color: #ffffff; }
   .themeix-footer-intro a {
-    color: #ff697c; }
+    color: #e52020; }
 
 .input-group-btn:not(:first-child) > .btn-group:active {
   z-index: 1; }
@@ -2515,7 +2515,7 @@ div.zabuto_calendar .table tr td {
   text-align: center; }
 
 .zabuto_calendar .table tr.calendar-month-header td {
-  background-color: #ff697c !important; }
+  background-color: #e52020 !important; }
   .zabuto_calendar .table tr.calendar-month-header td span {
     text-transform: uppercase;
     font-size: 15px;
@@ -2569,7 +2569,7 @@ div.zabuto_calendar .table tr td {
   font-weight: 400;
   font-size: 20px;
   border-radius: 4px;
-  background: #ff697c;
+  background: #e52020;
   color: #ffffff;
   text-transform: uppercase;
   z-index: 1;
@@ -2584,11 +2584,11 @@ div.zabuto_calendar .table tr td {
     font-size: 36px;
     color: #8e98ad; }
     .themeix-course-grid ul li a:hover {
-      color: #ff697c; }
+      color: #e52020; }
     .themeix-course-grid ul li a:focus {
-      color: #ff697c; }
+      color: #e52020; }
     .themeix-course-grid ul li a.active {
-      color: #ff697c; }
+      color: #e52020; }
 
 .themeix-pagination .pagination {
   display: block;
@@ -2597,17 +2597,17 @@ div.zabuto_calendar .table tr td {
   .themeix-pagination .pagination li {
     display: inline-block; }
     .themeix-pagination .pagination li a {
-      color: #45567c;
+      color: #000000;
       padding: 12px 15px;
       border: 1px solid #e6e6e6; }
       .themeix-pagination .pagination li a:focus {
         color: #ffffff;
-        background-color: #ff697c;
-        border: 1px solid #ff697c; }
+        background-color: #e52020;
+        border: 1px solid #e52020; }
       .themeix-pagination .pagination li a:hover {
         color: #ffffff;
-        background-color: #ff697c;
-        border: 1px solid #ff697c; }
+        background-color: #e52020;
+        border: 1px solid #e52020; }
     .themeix-pagination .pagination li:first-child a {
       border-radius: 4px; }
     .themeix-pagination .pagination li:last-child a {
@@ -2621,9 +2621,9 @@ div.zabuto_calendar .table tr td {
     width: 100%;
     text-align: left;
     padding: 10px 20px;
-    color: #ff697c; }
+    color: #e52020; }
     #themeix-lesson-accordion .card-header button.collapsed {
-      color: #45567c; }
+      color: #000000; }
 
 .tmx-box-icon i {
   width: 100px;
@@ -2667,7 +2667,7 @@ div.zabuto_calendar .table tr td {
   font-weight: 400;
   font-size: 15px;
   border-radius: 4px;
-  background: #ff697c;
+  background: #e52020;
   color: #ffffff;
   z-index: 1;
   padding: 10px 30px; }
@@ -2678,11 +2678,11 @@ div.zabuto_calendar .table tr td {
   padding-left: 0;
   padding-right: 0; }
   .sidebar-category li a {
-    color: #45567c; }
+    color: #000000; }
     .sidebar-category li a:hover {
-      color: #ff697c; }
+      color: #e52020; }
     .sidebar-category li a:focus {
-      color: #ff697c; }
+      color: #e52020; }
   .sidebar-category li span {
     margin-top: 2px;
     color: #8e98ad;
@@ -2888,7 +2888,7 @@ a.pinterest {
   height: 60px; }
 
 .loadmore-button {
-  background: #ff697c;
+  background: #e52020;
   color: #fff;
   border: none;
   border-radius: 4px;

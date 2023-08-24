@@ -4,8 +4,8 @@
 # Version : 1.0.0
 ###################################################################
 
-title: Eduzone - Premium Jekyll Theme
-email: themeix@gmail.com
+title: Coded Thinking
+email: hello@codedthinking.com
 description: >- # this means to ignore newlines until "baseurl:"
   Eduzone Responsive Static Jekyll Theme For Blogging.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -13,18 +13,10 @@ url: "https://jekyll-eduzone.netlify.com/" # the base hostname & protocol for yo
 
 
 # Site Settings
-twitter_username: jekyllrb
-logo_url: /assets/images/header-logo.png
-footer_logo_url: /assets/images/footer-logo.png
+twitter_username: codedthinking
+logo_url: https://cdn.thnk.ng/img/logo/logo-200.png
+footer_logo_url: https://cdn.thnk.ng/img/logo/logo-200.png
 cover_image: /assets/images/blog-img-13.jpg
-mailclimp_url: 'https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884'
-dribble_url: https://dribble.com/themeix
-facebook_url: https://facebook.com/themeix
-instagram_url: https://instagram.com/themeix
-twitter_url: https://twitter.com/themeix_com
-linkedin_url: https://linkedin.com/themeix
-pinterest_url: https://pinterest.com/themeix
-
 
 # Build settings
 markdown: kramdown
@@ -87,10 +79,6 @@ jekyll-archives:
     category: '/category/:name/'
  
 collections:
-  authors:
-    title: Authors
-    output: true
-    permalink: /authors/:path/
   courses:
     title: Courses
     output: true
@@ -99,12 +87,3 @@ collections:
     title: Instructors
     output: true
     permalink: /instructors/:path/    
-  lessons:
-    title: Lessons
-    output: true
-    permalink: /lessons/:path/    
-    
-feed:
-  collections:
-    posts:
-      path: "/index.xml"
