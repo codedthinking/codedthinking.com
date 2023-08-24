@@ -7,9 +7,9 @@
 title: Coded Thinking
 email: hello@codedthinking.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Eduzone Responsive Static Jekyll Theme For Blogging.
+  Data science for decision makers.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekyll-eduzone.netlify.com/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://codedthinking.com/" # the base hostname & protocol for your site, e.g. https://example.com
 
 
 # Site Settings
