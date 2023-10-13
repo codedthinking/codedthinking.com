@@ -14,13 +14,21 @@
   image: /assets/images/upcoming-event2.jpg
   url: https://eea-esem-2023.org/sessions/roundtable-data-sharing-when-collection-costly-do-journals-ask-too-much
   
+- title: "Command Line and Version Control"
+  time: 2:00 pm - 5:00 pm
+  location: Budapest, Hungary
+  day: 12
+  month: October
+  image: /assets/images/upcoming-event3.jpg
+  url: https://github.com/codedthinking/presentations/blob/main/2023-10-12-krtk/README.pdf
+  
 - title: Reproducible Research from Day One (Replication Week)
   time: 2:30 pm - 4:30 pm (CET)
   location: Online
   day: 24
   month: October
   image: /assets/images/upcoming-event.jpg
-  url: https://twitter.com/I4Replication
+  url: https://www.surveymonkey.ca/r/I4R_2023_ReplicationWeek_OnlineWorkshops
 
 - title: Advanced Macroeconomics
   time: 10:50 am - 12:30 pm
